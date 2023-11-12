@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T15:06:33.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VONwttSR3DNOh-XG3O0w" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-12T15:06:36.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EmcZX2gNyoN7HSArXlrW" version="22.1.0" type="github" pages="2">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1352" dy="367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2181" dy="917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,7 +394,7 @@
         </mxCell>
         <mxCell id="yPwkJkPXcMM_xhK4CCff-6" value="и_Показать еще&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;и_Подробнее" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yPwkJkPXcMM_xhK4CCff-5">
           <mxGeometry x="0.1151" relative="1" as="geometry">
-            <mxPoint x="8" y="-24" as="offset" />
+            <mxPoint x="4" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FL9K62EaHGy_0KdFEDnW-20" value="КарточкаТовара" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
