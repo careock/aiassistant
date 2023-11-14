@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T17:50:20.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7o1w47FEGRAOuyUNeTcp" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T17:51:17.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WZvhtwMD-bG8WnIEla3B" version="22.1.0" type="github" pages="3">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2997" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -436,6 +436,15 @@
         <mxCell id="yPwkJkPXcMM_xhK4CCff-7" value="и_Развернутое уточнение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9RJeNOhsSgj_mSgTUlDW-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1636" y="-1" relative="1" as="geometry">
             <mxPoint x="75" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOs-YHJk3sKzN8QZC2p2-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aOs-YHJk3sKzN8QZC2p2-336">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="2009" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="63" y="1927" />
+              <mxPoint x="215" y="1927" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
@@ -931,7 +940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="2504" dy="-475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="-763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -957,15 +966,6 @@
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-888" y="1788.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKtOa8hcvcqasp3_DEvz-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="2009" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="63" y="1927" />
-              <mxPoint x="215" y="1927" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-8" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="48" y="1780.5" width="30" height="30" as="geometry" />
@@ -996,7 +996,7 @@
             <mxPoint x="604" y="1570.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-14" value="и_Продать&lt;br&gt;без подробностей" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iKtOa8hcvcqasp3_DEvz-13" vertex="1" connectable="0">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-14" value="и_Продать&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iKtOa8hcvcqasp3_DEvz-13" vertex="1" connectable="0">
           <mxGeometry x="-0.5089" y="-1" relative="1" as="geometry">
             <mxPoint x="36" y="1" as="offset" />
           </mxGeometry>
@@ -1115,7 +1115,7 @@
         <mxCell id="iKtOa8hcvcqasp3_DEvz-41" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-40" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-42" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-40" vertex="1">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-42" value="ВовлекающаяФраза: &quot;Фраза3&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-40" vertex="1">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-43" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="iKtOa8hcvcqasp3_DEvz-40" vertex="1">
@@ -1127,7 +1127,7 @@
         <mxCell id="iKtOa8hcvcqasp3_DEvz-45" value="ОтчётАнализа" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1183" y="1936" width="140" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-46" value="ВовлекающаяФраза: &quot;Фраза3&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-45" vertex="1">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-46" value="ВовлекающаяФраза: &quot;Фраза4&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-45" vertex="1">
           <mxGeometry y="30" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="iKtOa8hcvcqasp3_DEvz-45" vertex="1">
@@ -1149,7 +1149,7 @@
             <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-52" value="СборИнформации" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-52" value="СборИнформации2" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="758" y="2141" width="140" height="132" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-53" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-52" vertex="1">
@@ -1160,7 +1160,7 @@
             <mxPoint x="251.16269318953846" y="66.13043478260897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-55" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-52" vertex="1">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-55" value="ВовлекающаяФраза: &quot;Фраза5&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-52" vertex="1">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-56" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="iKtOa8hcvcqasp3_DEvz-52" vertex="1">
@@ -1184,7 +1184,7 @@
         <mxCell id="iKtOa8hcvcqasp3_DEvz-61" value="Клавиатура: &lt;br&gt;&quot;Выбор услуги&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-60" vertex="1">
           <mxGeometry y="30" width="136" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-62" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-60" vertex="1">
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-62" value="ВовлекающаяФраза: &quot;Фраза6&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-60" vertex="1">
           <mxGeometry y="74" width="136" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-63" value="exit / setService" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-60" vertex="1">
