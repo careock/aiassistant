@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T17:46:13.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="go3Db3RAC2pG1n7QCYd5" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T17:49:03.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CeKrX48CF2qvehnM1ZFM" version="22.1.1" type="github" pages="3">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2234" dy="797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1090,11 +1090,11 @@
         <mxCell id="iKtOa8hcvcqasp3_DEvz-34" value="Вовлекающая фраза: &quot;Фраза2&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-33" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="iKtOa8hcvcqasp3_DEvz-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="iKtOa8hcvcqasp3_DEvz-33" vertex="1">
-          <mxGeometry y="55" width="140" height="8" as="geometry" />
-        </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-36" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-33" vertex="1">
-          <mxGeometry y="63" width="140" height="25" as="geometry" />
+          <mxGeometry y="55" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iKtOa8hcvcqasp3_DEvz-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="iKtOa8hcvcqasp3_DEvz-33" vertex="1">
+          <mxGeometry y="80" width="140" height="8" as="geometry" />
         </mxCell>
         <mxCell id="iKtOa8hcvcqasp3_DEvz-37" value="exit / setMainInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="iKtOa8hcvcqasp3_DEvz-33" vertex="1">
           <mxGeometry y="88" width="140" height="40" as="geometry" />
