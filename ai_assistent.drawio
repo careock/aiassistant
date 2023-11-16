@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T21:15:09.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RN766xRHbM_uTxVD8Cre" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T13:03:44.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SdpWOiyBK-5J_xcDVCNs" version="22.1.2" type="github" pages="4">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="4920" dy="2078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -940,7 +940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="4747" dy="-615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8105" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1288,7 +1288,7 @@
         <mxCell id="TE7snePpxL1ezkwjX8xx-80" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="TE7snePpxL1ezkwjX8xx-78" vertex="1">
           <mxGeometry y="74" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_Rkx-STUFvmVpo2PKa-4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TE7snePpxL1ezkwjX8xx-78" source="TE7snePpxL1ezkwjX8xx-81">
+        <mxCell id="_Rkx-STUFvmVpo2PKa-4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TE7snePpxL1ezkwjX8xx-78" source="TE7snePpxL1ezkwjX8xx-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="492.14797154017845" y="170.81249564034624" as="targetPoint" />
           </mxGeometry>
@@ -1658,17 +1658,503 @@
             <mxRectangle width="367" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Rkx-STUFvmVpo2PKa-4-6" value="&lt;h1&gt;и_ПродатьЧасы&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Направлен на выявление намерений пользователя продать свои часы. Включается либо с помощью кнопки “Хочу продать часы” в главном меню бота, либо при текстовом запросе, содержащем&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;b&gt;Ключевые фразы:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Продать часы&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Где можно продать б/у часы?&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Как я могу продать свои часы?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Оценка стоимости моих часов&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Хочу продать свои часы&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Интересует продажа часов [марка и модель]&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Как подготовить часы к продаже?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Сколько стоят мои часы?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&quot;Сколько стоят мои часы на вторичном рынке?&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_Rkx-STUFvmVpo2PKa-4-6" value="&lt;h1&gt;и_ПродатьЧасы&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Направлен на выявление намерений пользователя продать свои часы. Включается либо с помощью кнопки “Хочу продать часы” в главном меню бота, либо при текстовом запросе, содержащем&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;b&gt;Ключевые фразы:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Продать часы&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Где можно продать б/у часы?&quot;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Как я могу продать свои часы?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Оценка стоимости моих часов&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Хочу продать свои часы&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Интересует продажа часов [марка и модель]&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Как подготовить часы к продаже?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&quot;Сколько стоят мои часы?&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&quot;Сколько стоят мои часы на вторичном рынке?&quot;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="158" y="3520" width="466" height="372" as="geometry" />
         </mxCell>
-        <mxCell id="_Rkx-STUFvmVpo2PKa-4-7" value="&lt;h1&gt;и_Продать без уточнений&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_Rkx-STUFvmVpo2PKa-4-7" value="&lt;h1&gt;и_Продать без уточнений&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="779" y="3898" width="466" height="372" as="geometry" />
         </mxCell>
-        <mxCell id="_Rkx-STUFvmVpo2PKa-4-8" value="&lt;h1&gt;и_Туториал&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Вызывает инструкцию пользования разделом продажи часов. Включается нажатием кнопки “Пройти туториал”&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;Ключевые фразы:&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&quot;Туториал&quot;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_Rkx-STUFvmVpo2PKa-4-8" value="&lt;h1&gt;и_Туториал&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Вызывает инструкцию пользования разделом продажи часов. Включается нажатием кнопки “Пройти туториал”&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;Ключевые фразы:&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&quot;Туториал&quot;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="821" y="3523" width="466" height="372" as="geometry" />
         </mxCell>
-        <mxCell id="_Rkx-STUFvmVpo2PKa-4-9" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b3686809-7fff-5b50-c2da-e5c3237f6937&quot;&gt;&lt;ol style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Продать без уточнений&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ol style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot; start=&quot;2&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Продать с уточненениями&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Заполнить анкету&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Анализ часов&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Отправка на анализ&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Придумать Описание&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Исправить некорректную анкету&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Отправка информации&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Факты&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_ДопФакты&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Описание&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_Rkx-STUFvmVpo2PKa-4-9" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b3686809-7fff-5b50-c2da-e5c3237f6937&quot;&gt;&lt;ol style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Продать без уточнений&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ol style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot; start=&quot;2&quot;&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Продать с уточненениями&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Заполнить анкету&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Анализ часов&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Отправка на анализ&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Придумать Описание&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Исправить некорректную анкету&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Отправка информации&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Факты&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_ДопФакты&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; style=&quot;list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; aria-level=&quot;1&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; role=&quot;presentation&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;и_Описание&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230.99844075520895" y="3995.996394755046" width="313" height="259" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X_1_6HJQiG1RXXDQ4WPr" name="Сценарий3_Обменять">
+    <mxGraphModel dx="3269" dy="-1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-140" value="и_РедактироватьДанные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="659.5602283878252" y="3562.3999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-141" target="jt3wIRb4gtPLR5FbK9X1-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-141" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1698" y="3753" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-142" target="jt3wIRb4gtPLR5FbK9X1-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-142" value="&lt;b&gt;Старт&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1619" y="3735" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-143" value="Клавиатура: &quot;Старт&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-142">
+          <mxGeometry y="30" width="140" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1440.999755859375" y="4920.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-145" value="&lt;b&gt;Старт&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1687" y="4894.5" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-146" value="Клавиатура: &quot;Старт&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-145">
+          <mxGeometry y="30" width="140" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-147" value="и_ОбменятьЧасы&#x9;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-1406.0033333333336" y="3515.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-148" value="СборИнформации" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1331" y="3692" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-149" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-148">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-150" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-148">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-151" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-148">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-152" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-148">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-153" value="Ценовой сегмент" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-971" y="3688.5" width="140" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-154" value="Клавиатура: &quot;Выбрать&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-153">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-155" value="Клавиатура: &quot;Показать ещё&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-153">
+          <mxGeometry y="55" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-156" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-153">
+          <mxGeometry y="80" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-157" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-153">
+          <mxGeometry y="124" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-158" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-153">
+          <mxGeometry y="132" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-161" target="jt3wIRb4gtPLR5FbK9X1-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-248" y="3761" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-161" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-624" y="3754.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jt3wIRb4gtPLR5FbK9X1-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-722" y="3769.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-156" target="jt3wIRb4gtPLR5FbK9X1-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-862" y="3780.5454545454545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-150" target="jt3wIRb4gtPLR5FbK9X1-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-165" value="Сбор дополнительных сведений&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-472" y="3843" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-166" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-165">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-167" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-165">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-168" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-165">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-169" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-165">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-170" value="Уточнение определенности" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="3666.5" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-171" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-170">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-172" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-170">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-173" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-170">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-174" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-170">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-175" value="и_ВнестиКорректировки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-547.0033333333336" y="3678.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-176" value="и_ПодтвердитьЦеновойСегмент" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-399.00333333333356" y="3505.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-179" target="jt3wIRb4gtPLR5FbK9X1-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10.05000000000009" y="3957.5" as="sourcePoint" />
+            <mxPoint x="167.65" y="3866.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-179" target="jt3wIRb4gtPLR5FbK9X1-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-284" value="и_ЯЗнаюЧтоХочуПолучить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jt3wIRb4gtPLR5FbK9X1-178">
+          <mxGeometry x="0.0951" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-179" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.399999999999977" y="3748.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-172" target="jt3wIRb4gtPLR5FbK9X1-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-181" value="Сбор информации о модели часов" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="213" y="3589" width="140" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-182" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-181">
+          <mxGeometry y="41" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-183" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-181">
+          <mxGeometry y="96" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-184" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-181">
+          <mxGeometry y="146" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-185" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-181">
+          <mxGeometry y="154" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-186" value="Список Моделей" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="213" y="3819" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-187" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-186">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-188" value="Список моделей" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-186">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-189" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-186">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-190" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-186">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-334.00000000000045" y="3927" as="sourcePoint" />
+            <mxPoint x="-238" y="3791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-192" value="и_ЯНеЗнаюЧтоХочуПолучить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="112.99666666666644" y="3685.5033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="3727" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-194" value="и_ОтправитьИнформацию" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-1086.0033333333336" y="3492.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-195" value="Карточка модели" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="3585.5" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-196" value="Клавиатура: &quot;Ввод параметров&quot;&lt;br&gt;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-195">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-198" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-195">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-199" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-195">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-200" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-195">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-183" target="jt3wIRb4gtPLR5FbK9X1-198">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567" y="3670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-285" value="и_ВыдатьДанныеОМодели" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jt3wIRb4gtPLR5FbK9X1-201">
+          <mxGeometry x="0.1655" y="-3" relative="1" as="geometry">
+            <mxPoint x="-24" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-202" value="Выбор модели" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="567" y="3832" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-203" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-202">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jt3wIRb4gtPLR5FbK9X1-202" source="jt3wIRb4gtPLR5FbK9X1-205">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-205" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-202">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-206" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-202">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-207" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-202">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-188" target="jt3wIRb4gtPLR5FbK9X1-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-209" value="Список моделей предоставлен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="440.99666666666644" y="3678.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-217" target="jt3wIRb4gtPLR5FbK9X1-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-217" target="jt3wIRb4gtPLR5FbK9X1-230">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1165.733317057292" y="3890.0666910807295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1119" y="3942" />
+              <mxPoint x="1119" y="3890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-217" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818" y="3927" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-219" target="jt3wIRb4gtPLR5FbK9X1-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-219" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="3678" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-221" value="ФормированиеЗаявки" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1251" y="3759" width="140" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-222" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-221">
+          <mxGeometry y="30" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-223" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-221">
+          <mxGeometry y="85" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-224" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-221">
+          <mxGeometry y="135" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-225" value="exit / setChangeOrder" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-221">
+          <mxGeometry y="143" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-226" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="1548" y="3840.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-223" target="jt3wIRb4gtPLR5FbK9X1-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.451;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-219" target="jt3wIRb4gtPLR5FbK9X1-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-230" target="jt3wIRb4gtPLR5FbK9X1-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-230" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="3830" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-231" value="и_ВыбратьМодельДляОбмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="982.9966666666664" y="3700.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-232" value="и_ПросмотретьЕще" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="739.9966666666664" y="3813.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-233" value="и_ПодтвердитьМодельДляОбмена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1102.9966666666664" y="3542.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-234" value="и_ОтправитьПредложение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1468.9966666666664" y="3610.0033333333336" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-236" target="jt3wIRb4gtPLR5FbK9X1-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-236" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1800" y="4911" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-237" value="и_ХочуУзнатьАдрес" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-1491.0033333333336" y="4656.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-238" value="Выбор города" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1408" y="4855" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-239" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-238">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-240" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-238">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-241" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-238">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-242" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-238">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-243" value="Выбор магазина" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=95;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="4855" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-244" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-243">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-245" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-243">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-246" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-243">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-247" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-243">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-248" value="Выдан список &lt;br&gt;адресов вгороде" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-1215.0033333333336" y="4672.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-249" value="Выбор сценария" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=95;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-906" y="4855" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-250" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-249">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-251" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-249">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-252" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-249">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-253" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-249">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-254" value="Выбран адрес" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-962.0033333333336" y="4684.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-255" value="Контакты менеджера" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=95;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="5025" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-256" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-255">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-257" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-255">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-258" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-255">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-259" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-255">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-263" target="jt3wIRb4gtPLR5FbK9X1-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-263" target="jt3wIRb4gtPLR5FbK9X1-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-263" target="jt3wIRb4gtPLR5FbK9X1-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-263" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-716" y="4901" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-264" value="Заполнение данных для заказа" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=95;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="4829" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-265" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-264">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-266" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-264">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-267" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-264">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-268" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-264">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-269" value="Отметить маршрут" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=95;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="4641" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-270" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-269">
+          <mxGeometry y="30" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-271" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-269">
+          <mxGeometry y="55" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-272" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-269">
+          <mxGeometry y="99" width="140" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-273" value="exit / setInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="jt3wIRb4gtPLR5FbK9X1-269">
+          <mxGeometry y="107" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-274" value="и_ПостроитьМаршрутНаКартах" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-648.0033333333336" y="4460.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-275" value="и_ЗаказТакси" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-643.0033333333336" y="4670.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-276" value="и_СвязатьсяСМенеджером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-633.0033333333336" y="4865.003333333334" as="geometry">
+            <mxPoint x="4" y="232" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-277" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="4880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-278" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="5073" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt3wIRb4gtPLR5FbK9X1-198" target="jt3wIRb4gtPLR5FbK9X1-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="3699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt3wIRb4gtPLR5FbK9X1-286" value="Выбран шаг" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jt3wIRb4gtPLR5FbK9X1-197">
+          <mxGeometry x="-0.3059" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
