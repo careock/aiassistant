@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T15:48:26.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tcHLAHVMPCdO_8Vx6mrp" version="22.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-16T15:51:27.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QFAdYyQx6g8nFYBWDCTi" version="22.1.2" type="github" pages="4">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="4920" dy="2078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="3436" dy="-1221" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6070" dy="207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1126,7 +1126,7 @@
         <mxCell id="TE7snePpxL1ezkwjX8xx-38" value="Вовлекающая фраза: &quot;Фраза7&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="TE7snePpxL1ezkwjX8xx-37" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="TE7snePpxL1ezkwjX8xx-39" value="Клавиатура: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="TE7snePpxL1ezkwjX8xx-37" vertex="1">
+        <mxCell id="TE7snePpxL1ezkwjX8xx-39" value="Клавиатура: &quot;Анкета&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="TE7snePpxL1ezkwjX8xx-37" vertex="1">
           <mxGeometry y="55" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="TE7snePpxL1ezkwjX8xx-40" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="TE7snePpxL1ezkwjX8xx-37" vertex="1">
@@ -1419,7 +1419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TE7snePpxL1ezkwjX8xx-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1844" y="2649.5" width="621" height="347" as="geometry" />
+          <mxGeometry x="1844" y="2649.5" width="621" height="461.5" as="geometry" />
         </mxCell>
         <mxCell id="TE7snePpxL1ezkwjX8xx-112" value="&quot;ТуториалПродажа&quot;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1877" y="2731.5" width="140" height="86" as="geometry" />
