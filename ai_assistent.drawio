@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T16:15:39.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CR3O0XOtnODRK5BN9n-P" version="22.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-16T16:19:10.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9f1rjrkktJPwGOQ5nM6L" version="22.1.2" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2678" dy="1018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -940,7 +940,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="4035" dy="-897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5489" dy="-109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1297,10 +1297,16 @@
           <mxGeometry y="82" width="140" height="36" as="geometry" />
         </mxCell>
         <mxCell id="TE7snePpxL1ezkwjX8xx-82" value="УслугаОписание" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="794.38" y="3064" width="140" height="69" as="geometry" />
+          <mxGeometry x="794.38" y="3064" width="140" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="TE7snePpxL1ezkwjX8xx-83" value="entry / getInfo&lt;br&gt;exit / setDescript" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="TE7snePpxL1ezkwjX8xx-82" vertex="1">
-          <mxGeometry y="30" width="140" height="39" as="geometry" />
+        <mxCell id="TE7snePpxL1ezkwjX8xx-83" value="Маркетинговое описание?&lt;br&gt;&lt;br&gt;entry / getInfo&lt;br&gt;exit / setDescript" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="TE7snePpxL1ezkwjX8xx-82" vertex="1">
+          <mxGeometry y="30" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="bIGctybcby2RMGIiVy91-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TE7snePpxL1ezkwjX8xx-82" source="TE7snePpxL1ezkwjX8xx-83" target="TE7snePpxL1ezkwjX8xx-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35.620000000000005" y="-36" as="sourcePoint" />
+            <mxPoint x="85.62" y="-86" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TE7snePpxL1ezkwjX8xx-84" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="798" y="2537" width="30" height="30" as="geometry" />
@@ -1676,17 +1682,11 @@
         <mxCell id="xeLQqyrl6FjBKniDDhkH-3" value="1.&amp;nbsp;Заполнить анкету на продажу&lt;br&gt;2. Проанализировать рынок моих часов&lt;br&gt;3. Придумать описание" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="xeLQqyrl6FjBKniDDhkH-2">
           <mxGeometry y="26" width="140" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="aWRUVMZZW6zd39kn0wuo-1" value="Анкета" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2058" y="2850" width="140" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="aWRUVMZZW6zd39kn0wuo-2" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="aWRUVMZZW6zd39kn0wuo-1">
-          <mxGeometry y="26" width="140" height="108" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="X_1_6HJQiG1RXXDQ4WPr" name="Сценарий3_Обменять">
-    <mxGraphModel dx="6551" dy="-131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5534" dy="-683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2017,7 +2017,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QUFqJiaMd1NbY8h0CmsP" name="Сценарий4">
-    <mxGraphModel dx="4359" dy="-2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3543" dy="-2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
