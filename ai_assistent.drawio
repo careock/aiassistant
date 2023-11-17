@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T09:44:45.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7xXBLQ_e9LW1mTXCX582" version="22.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-17T09:47:23.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d2nStmRG1-xLHGocRjpf" version="22.1.2" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1504" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="2514" dy="-1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="-2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -846,7 +846,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-919" value="Текстовый инпут: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="aVsnCBX8B5MFVqbkwQxA-918">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Фраза3&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="aVsnCBX8B5MFVqbkwQxA-918">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Фраза3&quot;&lt;br&gt;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="aVsnCBX8B5MFVqbkwQxA-918">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-921" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aVsnCBX8B5MFVqbkwQxA-918">
@@ -1117,12 +1117,12 @@
             <mxPoint x="4698.542693189538" y="3218.130434782609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-985" value="и_Отправка информации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aVsnCBX8B5MFVqbkwQxA-984">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-985" value="Отправка информации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aVsnCBX8B5MFVqbkwQxA-984">
           <mxGeometry x="-0.2797" y="3" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-986" value="и_Отправка на анализ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-986" value="Отправлено на анализ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
           <mxGeometry x="4660.996012394739" y="2928.4987729774675" as="geometry">
             <mxPoint x="-3" y="-2" as="offset" />
           </mxGeometry>
