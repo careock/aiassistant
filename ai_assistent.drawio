@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T11:45:24.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fdoweorCOBviU8Y9Bt6W" version="22.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-17T15:39:41.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="89y78piNvxKjh2L1Z3F3" version="22.1.2" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2021" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="977" dy="-1896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="-1659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -721,13 +721,13 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-890" value="ВовлекающаяФраза: &quot;Фраза2&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-888" vertex="1">
           <mxGeometry y="74" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-891" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;edgeStyle=elbowEdgeStyle;" parent="1" source="aVsnCBX8B5MFVqbkwQxA-886" target="aVsnCBX8B5MFVqbkwQxA-888" edge="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-891" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=elbowEdgeStyle;" parent="1" source="aVsnCBX8B5MFVqbkwQxA-886" target="aVsnCBX8B5MFVqbkwQxA-888" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4209" y="2692.62" as="sourcePoint" />
             <mxPoint x="4299" y="2692.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-892" value="и_Продать без уточнений" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aVsnCBX8B5MFVqbkwQxA-891" vertex="1" connectable="0">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-892" value="и_Выбрать сценарий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aVsnCBX8B5MFVqbkwQxA-891" vertex="1" connectable="0">
           <mxGeometry x="-0.5089" y="-1" relative="1" as="geometry">
             <mxPoint x="36" y="1" as="offset" />
           </mxGeometry>
@@ -1164,7 +1164,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-995" value="и_Продать без уточнений" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aVsnCBX8B5MFVqbkwQxA-994" connectable="0" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-995" value="и_Выбрать сценарий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aVsnCBX8B5MFVqbkwQxA-994" connectable="0" vertex="1">
           <mxGeometry x="-0.5311" y="1" relative="1" as="geometry">
             <mxPoint x="-29" y="224" as="offset" />
           </mxGeometry>
@@ -1197,7 +1197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X_1_6HJQiG1RXXDQ4WPr" name="Сценарий3_Обменять">
-    <mxGraphModel dx="4241" dy="-1382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4923" dy="-1078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
