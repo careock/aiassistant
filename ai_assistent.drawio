@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T22:52:23.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="66fhRo5GBKFg-S556bV3" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-20T22:54:43.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jrVMAKm9CoTeQOlIJYqD" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1910" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -718,7 +718,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-889" value="Клавиатура: &lt;br&gt;&quot;Выбор сценария&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-888" vertex="1">
           <mxGeometry y="30" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-890" value="ВовлекающаяФраза: &quot;Фраза2&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-888" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-890" value="ВовлекающаяФраза: &quot;Выбор сценария&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-888" vertex="1">
           <mxGeometry y="74" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-891" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=elbowEdgeStyle;" parent="1" source="aVsnCBX8B5MFVqbkwQxA-886" target="aVsnCBX8B5MFVqbkwQxA-888" edge="1">
@@ -774,7 +774,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-900" value="Клавиатура: &lt;br&gt;&quot;Выбор роли&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-899" vertex="1">
           <mxGeometry y="30" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-901" value="ВовлекающаяФраза: &quot;Фраза1&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-899" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-901" value="ВовлекающаяФраза: &quot;Выбрана роль&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-899" vertex="1">
           <mxGeometry y="74" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-902" value="exit / setRole" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-899" vertex="1">
@@ -845,7 +845,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-919" value="Текстовый инпут: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Фраза3&quot;&lt;br&gt;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Сбор информации&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-921" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
