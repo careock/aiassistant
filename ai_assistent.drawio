@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T22:48:21.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iLt1-D6IjlfF0UvWZ_xD" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-20T22:52:23.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="66fhRo5GBKFg-S556bV3" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1910" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -939,7 +939,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-946" value="Анкета" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="5247" y="2673" width="140" height="166" as="geometry" />
+          <mxGeometry x="5306" y="2668" width="140" height="166" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-947" value="Вовлекающая фраза: &quot;Фраза8&quot;&lt;br&gt;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-946" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
@@ -962,6 +962,11 @@
             <Array as="points">
               <mxPoint x="4573" y="2751" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-17" value="Информация&amp;nbsp;&lt;br&gt;введена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aVsnCBX8B5MFVqbkwQxA-950">
+          <mxGeometry x="0.1188" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-952" value="УслугаФакты" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
@@ -1185,6 +1190,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4389" y="2751" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="5531" y="2729" />
+              <mxPoint x="5531" y="2732" />
+              <mxPoint x="5561" y="2732" />
+              <mxPoint x="5561" y="2655" />
+              <mxPoint x="5387" y="2655" />
               <mxPoint x="5387" y="2603" />
               <mxPoint x="4389" y="2603" />
               <mxPoint x="4389" y="2752" />
@@ -1192,7 +1202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-3" value="ЗаполнениеАнкеты2" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4690" y="2679.5" width="140" height="138" as="geometry" />
+          <mxGeometry x="4740" y="2679.5" width="140" height="138" as="geometry" />
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-4" value="Вовлекающая фраза: &quot;Фраза8&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-3">
           <mxGeometry y="30" width="140" height="35" as="geometry" />
@@ -1207,7 +1217,7 @@
           <mxGeometry y="98" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-10" value="ЗаполнениеАнкеты3" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4865" y="2679.5" width="140" height="138" as="geometry" />
+          <mxGeometry x="5028" y="2679.5" width="140" height="138" as="geometry" />
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-11" value="Вовлекающая фраза: &quot;Фраза9&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-10">
           <mxGeometry y="30" width="140" height="35" as="geometry" />
@@ -1223,6 +1233,19 @@
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GzyYK4fPm1oVWRM6Q_dg-5" target="GzyYK4fPm1oVWRM6Q_dg-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.035;entryY=0.134;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GzyYK4fPm1oVWRM6Q_dg-12" target="ZDCtAfG03pYl_xSKbjPZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5242" y="2751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-18" value="Информация&amp;nbsp;&lt;br&gt;введена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4953.998228545003" y="2750.996381258588" as="geometry" />
+        </mxCell>
+        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-19" value="Информация&amp;nbsp;&lt;br&gt;введена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5236.998228545003" y="2743.496381258588" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
