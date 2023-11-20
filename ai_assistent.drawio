@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T22:57:04.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cQvYNofx5k0aU4qXK-kz" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-20T23:03:20.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z6sWZx92oGookStlK0dP" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1910" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="740" dy="-2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="-1770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-919" value="Текстовый инпут: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Сбор информации&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-920" value="ВовлекающаяФраза: &quot;Лесть про часы&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-921" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aVsnCBX8B5MFVqbkwQxA-918" vertex="1">
@@ -885,7 +885,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-931" value="Текстовый инпут: &quot;Ввод параметров&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-930" vertex="1">
           <mxGeometry y="30" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-932" value="ВовлекающаяФраза: &quot;Сбор информации&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-930" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-932" value="ВовлекающаяФраза: &quot;Лесть про часы&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-930" vertex="1">
           <mxGeometry y="55" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-933" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="aVsnCBX8B5MFVqbkwQxA-930" vertex="1">
@@ -900,7 +900,7 @@
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-937" value="Клавиатура: &lt;br&gt;&quot;Выбор услуги&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-936" vertex="1">
           <mxGeometry y="30" width="136" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-938" value="ВовлекающаяФраза: &quot;Фраза6&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-936" vertex="1">
+        <mxCell id="aVsnCBX8B5MFVqbkwQxA-938" value="ВовлекающаяФраза: &quot;Выбор услуги&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-936" vertex="1">
           <mxGeometry y="74" width="136" height="44" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-940" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="aVsnCBX8B5MFVqbkwQxA-944" target="aVsnCBX8B5MFVqbkwQxA-953" edge="1">
@@ -1222,7 +1222,7 @@
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-11" value="Вовлекающая фраза: &quot;Фраза9&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-10">
           <mxGeometry y="30" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-12" value="Клавиатура: &quot;Состояние часов&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-10">
+        <mxCell id="GzyYK4fPm1oVWRM6Q_dg-12" value="Текстовый инпут: &quot;Контакты&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-10">
           <mxGeometry y="65" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GzyYK4fPm1oVWRM6Q_dg-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="GzyYK4fPm1oVWRM6Q_dg-10">
