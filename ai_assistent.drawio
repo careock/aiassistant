@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T21:05:14.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iqRRprNNx8fgM9Abev5k" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-21T21:17:07.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MRamQ8KnPma0wkinKyYK" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2428" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1331,20 +1331,20 @@
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="AQLQjSEr0jgUOfjqQuxK-25" vertex="1">
           <mxGeometry y="169" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AQLQjSEr0jgUOfjqQuxK-29" value="exit / setSegment" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-25" vertex="1">
+        <mxCell id="AQLQjSEr0jgUOfjqQuxK-29" value="exit / setUserSegment" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-25" vertex="1">
           <mxGeometry y="177" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AQLQjSEr0jgUOfjqQuxK-30" value="Уточнение определенности" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="3651" width="140" height="145" as="geometry" />
+        <mxCell id="AQLQjSEr0jgUOfjqQuxK-30" value="Уточнение определенности пользователя" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-202" y="3641" width="140" height="155" as="geometry" />
         </mxCell>
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-31" value="Клавиатура: &quot;Определённость&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-30" vertex="1">
-          <mxGeometry y="40" width="140" height="55" as="geometry" />
+          <mxGeometry y="50" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="AQLQjSEr0jgUOfjqQuxK-33" value="ВовлекающаяФраза: &quot;Фраза4&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-30" vertex="1">
-          <mxGeometry y="95" width="140" height="50" as="geometry" />
+        <mxCell id="AQLQjSEr0jgUOfjqQuxK-33" value="ВовлекающаяФраза: &quot;Определённость&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-30" vertex="1">
+          <mxGeometry y="105" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-36" value="и_ВнестиКорректировки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="-558.0033333333336" y="3683.0033333333336" as="geometry">
+          <mxGeometry x="-549.0033333333336" y="3741.0033333333336" as="geometry">
             <mxPoint x="4" y="232" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1395,7 +1395,7 @@
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="AQLQjSEr0jgUOfjqQuxK-47" vertex="1">
           <mxGeometry y="135" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="AQLQjSEr0jgUOfjqQuxK-51" value="entry/ setList" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-47" vertex="1">
+        <mxCell id="AQLQjSEr0jgUOfjqQuxK-51" value="entry/ getUserSegment" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="AQLQjSEr0jgUOfjqQuxK-47" vertex="1">
           <mxGeometry y="143" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-52" value="и_ЯЗнаюЧтоХочуПолучить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" connectable="0" vertex="1">
