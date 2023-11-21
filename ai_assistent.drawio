@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T23:14:36.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s4dc1dCtGetLcEeBF2gY" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-21T23:42:49.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ixz_FWlX-Lt0ZMCj3HC0" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2428" dy="840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1498,7 +1498,7 @@
           <mxGeometry y="143" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-90" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="1644" y="3848" width="30" height="30" as="geometry" />
+          <mxGeometry x="1624" y="3792" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AQLQjSEr0jgUOfjqQuxK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="AQLQjSEr0jgUOfjqQuxK-87" target="AQLQjSEr0jgUOfjqQuxK-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1609,7 +1609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QUFqJiaMd1NbY8h0CmsP" name="Сценарий4">
-    <mxGraphModel dx="6551" dy="-1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4516" dy="-2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
