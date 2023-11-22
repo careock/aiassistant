@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T21:15:20.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="r3cK1nawwob4L7r6A4Rl" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-22T21:30:21.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GBHDezPXtAW-bai9CB1W" version="22.1.3" type="github" pages="6">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2021" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1598,7 +1598,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QUFqJiaMd1NbY8h0CmsP" name="Сценарий4">
-    <mxGraphModel dx="3591" dy="-2934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3766" dy="-2844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1671,7 +1671,7 @@
         <mxCell id="Wq4y-8WS6RGcGByUS6OL-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Wq4y-8WS6RGcGByUS6OL-18" vertex="1">
           <mxGeometry y="99" width="140" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Wq4y-8WS6RGcGByUS6OL-22" value="entry/ getShopInfo" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="Wq4y-8WS6RGcGByUS6OL-18" vertex="1">
+        <mxCell id="Wq4y-8WS6RGcGByUS6OL-22" value="entry/ getShopInfo&lt;br&gt;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="Wq4y-8WS6RGcGByUS6OL-18" vertex="1">
           <mxGeometry y="107" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Wq4y-8WS6RGcGByUS6OL-23" value="Выбран магазин" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" connectable="0" vertex="1">
