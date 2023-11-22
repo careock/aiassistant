@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T23:33:43.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="03v9WuYRzzN-V5Z7Xkig" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-22T23:36:19.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PNIc61opih69R9s3NFdw" version="22.1.3" type="github" pages="6">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1963" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1598,7 +1598,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a21N66v13uGyIwAiRq6B" name="Сценарий4_Консультации">
-    <mxGraphModel dx="1669" dy="-735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="-539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1756,7 +1756,7 @@
         <mxCell id="iwC0PAXHJ5ArhbIdpZO4-45" value="Консультация&lt;br&gt;&amp;nbsp;Модель" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="800" y="1710" width="140" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="iwC0PAXHJ5ArhbIdpZO4-46" value="Клавиатура: &quot;Рассказать про другое&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="iwC0PAXHJ5ArhbIdpZO4-45">
+        <mxCell id="iwC0PAXHJ5ArhbIdpZO4-46" value="Клавиатура: &quot;Рассказать про другоеМодель&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="iwC0PAXHJ5ArhbIdpZO4-45">
           <mxGeometry y="50" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="iwC0PAXHJ5ArhbIdpZO4-47" value="ВовлекающаяФраза: &quot;Консультация Модель&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" vertex="1" parent="iwC0PAXHJ5ArhbIdpZO4-45">
