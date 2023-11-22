@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T21:57:08.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_7zhlT-w6pzIcx14HFKo" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-22T21:58:11.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="t34Z9DN6mnud0_jZf5d9" version="22.1.3" type="github" pages="6">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2021" dy="630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1597,8 +1597,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QUFqJiaMd1NbY8h0CmsP" name="Сценарий4">
-    <mxGraphModel dx="3766" dy="-2844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="QUFqJiaMd1NbY8h0CmsP" name="Сценарий5_УзнатьАдрес">
+    <mxGraphModel dx="4359" dy="-2538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2227,7 +2227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a21N66v13uGyIwAiRq6B" name="Сценарий5">
-    <mxGraphModel dx="1221" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
