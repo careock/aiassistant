@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T23:36:19.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PNIc61opih69R9s3NFdw" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-22T23:36:52.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GOQ29uhooKmXi2-gg0Ft" version="22.1.3" type="github" pages="6">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1963" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1879,7 +1879,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwC0PAXHJ5ArhbIdpZO4-74" value="и_РассказатьЕщё" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iwC0PAXHJ5ArhbIdpZO4-73">
+        <mxCell id="iwC0PAXHJ5ArhbIdpZO4-74" value="и_РассказатьЕщёМодель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iwC0PAXHJ5ArhbIdpZO4-73">
           <mxGeometry x="0.0191" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
