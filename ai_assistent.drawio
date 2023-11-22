@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T10:40:34.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p8viyZ8z6o6BNoTjudQU" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-22T10:41:49.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B6t8kO9B7HLiRLT2IUkK" version="22.1.3" type="github" pages="5">
   <diagram name="Сценарий1_Купить" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="3242" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="soEoXvYXdkYKEyrLYBIF" name="Сценарий2_Продать">
-    <mxGraphModel dx="740" dy="-2018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="-1852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -783,19 +783,8 @@
             <mxPoint x="264" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVsnCBX8B5MFVqbkwQxA-904" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="aVsnCBX8B5MFVqbkwQxA-902" target="aVsnCBX8B5MFVqbkwQxA-906" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3279" y="2925" as="sourcePoint" />
-            <mxPoint x="3488" y="2922.0000000000005" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3270" y="2919" />
-              <mxPoint x="3382" y="2919" />
-              <mxPoint x="3382" y="2918" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-905" value="ПредложениеТуториала" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3475" y="2855" width="178" height="158" as="geometry" />
+          <mxGeometry x="3473" y="2842.5" width="178" height="158" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-906" value="Клавиатура: &lt;br&gt;&quot;ТуториалПродажа&quot;&lt;br&gt;ВовлекающаяФраза: &quot;Выбрана роль&quot;" style="fillColor=none;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=5;whiteSpace=wrap;html=1;" parent="aVsnCBX8B5MFVqbkwQxA-905" vertex="1">
           <mxGeometry y="43" width="178" height="71" as="geometry" />
@@ -807,7 +796,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aVsnCBX8B5MFVqbkwQxA-910" value="и_Выбрана роль" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="3365" y="2918" as="geometry">
+          <mxGeometry x="3368" y="2894" as="geometry">
             <mxPoint x="-11" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1242,6 +1231,9 @@
         </mxCell>
         <mxCell id="Wc-b70w6SP8J51qwf4Kf-3" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5476" y="2725.5" width="43" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="jmS0NylCtCQXApu18cct-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aVsnCBX8B5MFVqbkwQxA-900" target="aVsnCBX8B5MFVqbkwQxA-906">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
